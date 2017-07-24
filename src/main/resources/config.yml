@@ -1,0 +1,8 @@
+# BlockSounds by XorNick.
+# Add new sounds for specific materials.
+
+# Find a list of sounds here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+# Find a list of materials here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+
+# Auto-generated example, if you do not want it just comment it out.
+COBBLESTONE: BLOCK_ANVIL_DESTROY
